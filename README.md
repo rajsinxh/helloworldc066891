@@ -1,2 +1,1 @@
-# helloworldc066891
-prints a hello world message
+This is a basic test to create python modules
